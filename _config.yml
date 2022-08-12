@@ -1,1 +1,14 @@
-theme: jekyll-theme-minimal
+title: The Preposterous Pedal - a record of biking across the US
+email: cam.r.buss@gmail.com
+description: >- # this means to ignore newlines until "baseurl:"
+  Cam's blog about biking the 2022 SoTier with Bike the US for MS
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
+github_username:  camrbuss
+
+# Build settings
+markdown: kramdown
+theme: minima
+plugins:
+  - jekyll-feed
+
