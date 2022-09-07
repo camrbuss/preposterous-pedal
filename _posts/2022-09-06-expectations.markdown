@@ -1,5 +1,3 @@
-Expectations
-
 ---
 layout: post
 title:  "Expectations!"
