@@ -9,12 +9,10 @@ This marks the start of my GitHub Pages Biking Blog, but don’t have expectatio
 My only goal is to write something every day of the journey. I’ll try to capture my thoughts and maybe a couple photos, but I doubt I will have much more than random thoughts.
 
 In order to test my image display skills I present to you a beautiful beetle with amazing strength and route finding abilities.
-<img src="{{ "/img/beetle.JPG" | prepend: sit
-e.baseurl }}" >
+<img src="{{ "/img/beetle.JPG" | prepend: site.baseurl }}" >
 
 And a photo of me all ready to rumble…
-<img src="{{ "/img/bburg.JPG" | prepend: sit
-e.baseurl }}" >
+<img src="{{ "/img/bburg.JPG" | prepend: site.baseurl }}" >
 
 Oh, and maybe I’ll rant about stuff for a minute…
 
