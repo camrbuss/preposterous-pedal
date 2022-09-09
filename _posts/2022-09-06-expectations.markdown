@@ -23,30 +23,30 @@ I tried to keep my kit minimal and modest, but I know I have too much stuff. I r
 Okay, onto what I am actually bringing:
 
 Gear:
-Tent
-Down bag
-Inflatable pad and pillow 
-White gas stove
-Small pot
-Spork
-Silicon bowl
-Headlamp
-Books
-Dry bag
-Helmet
-Ear buds
-Sun glasses
-Garmin Edge
-Surly Straggler bike
-Rear pannier 
+- Tent
+- Down bag
+- Inflatable pad and pillow 
+- White gas stove
+- Small pot
+- Spork
+- Silicon bowl
+- Headlamp
+- Books
+- Dry bag
+- Helmet
+- Ear buds
+- Sun glasses
+- Garmin Edge
+- Surly Straggler bike
+- Rear pannier 
 
 Clothes:
-Down jacket
-Rain jacket
-2 underwear 
-3 socks (I guess 6 in reality)
-2 shorts
-2 shirts
-2 riding shorts
-2 riding jerseys 
-2 riding socks
+- Down jacket
+- Rain jacket
+- 2 underwear 
+- 3 socks (I guess 6 in reality)
+- 2 shorts
+- 2 shirts
+- 2 riding shorts
+- 2 riding jerseys 
+- 2 riding socks
