@@ -1,0 +1,25 @@
+---
+layout: post
+title:  "Day 2 - Kay on I-8"
+date:   2022-09-09 12:34:56 -0400
+categories: bike blog
+---
+Today had a lot more emotional roller coaster than yesterday, but the lows and highs were enjoyable.
+
+I started riding at 7am after everyone else with a light rain and some medium wind gusts. Excited to be out on the road with one thing to do, I encountered some of my new friends and gave some good cheer. Pretty quickly I caught up to the main group as they were stopped unable to accept the fact that we had to ride on the interstate. I checked the maps and GPS and then entered the on ramp. Within 15 minutes it was apparent that the rain and wind was getting worse and the mountains were channeling the gusting winds. I’ve got pretty decent bike handling skills, but the gusts were certainly knocking me off course and I was entertaining walking after unclipping a couple of times. After an emergency piss in the brush and chasing my map blowing in the wind, I told myself that I needed to ride harder and faster to overcome the side forces of the wind gusts. Finally, exit 40 came, and I was back on single lane roads. The wind and rain was steady at this point and I had concluded today was not the day for singing and looking around, but I turned up the dance music and kept peddling.
+
+After about an hour of backroads, I ran into the leading person in the group. It was a slow approach, so I had time to come up with a funny greeting. My best at the time was “Who turned on the fans today?”. Unfortunately the joke didn’t land and I was informed that the rider wanted to ride alone. Phew, that took a lot of wind out of my sails. I wanted company and I wanted to help my fellow rider, but I had to understand that the best way to help was to give everyone space. I worked through the emotions pretty fast because the wind was forcing me to constantly press pretty hard on both sides of the bars.
+
+Maybe 20 minutes later I saw our van and they flagged me over. What was happening? I stopped and the route leaders body language told me that my bike was going on the rack. At that point it didn’t seem like it could get much worse, so I didn’t really have the thought of stopping, but there I was being told to stop. I paused and reminded myself that I needed to go with the flow. My teammate that I just passed wasn’t too far back, so they stopped at the van and loaded up. We reconciled immediately, after we both commented on the fact we needed 100% focus and it was good we didn’t ride together. All good! My spirit rushed back in and life became un-paused. Wow, I am a sensitive snowflake… I’m working on it…
+
+Turns out we were riding in wind gusts up to 100mph, so everyone concluded we would would drive to the church and end our day. The rain was coming down and amber alerts kept going, so I was comfortable with our 10am decision. By 1pm, the major wind had stopped and the idea that I could be riding crept right in. Flooded with the idea that I could have kept riding, I got pretty down, while everyone else was still talking about how crazy everything was. I’m still bummed that we didn’t just shelter for a while and then get back to it, but getting over myself is more important than pushing myself physically. I think I know how to push through physical discomfort, but I definitely don’t know how to deal with my emotions. That’s why I’m out here!
+
+I’m not out here finding myself, I’m out here to be constantly reminded that I will never know who I am and I need to enjoy the journey. I am also out here to spread awareness of MS!
+
+Big sad van ride:
+
+<img src="{{ "/img/kayoni8.JPG" | prepend: site.baseurl }}">
+
+Hopeful for a better day in the rain tomorrow. Hopefully we can all crawl along like this little bugger:
+
+<img src="{{ "/img/jacumbabeetle.png" | prepend: site.baseurl }}">
