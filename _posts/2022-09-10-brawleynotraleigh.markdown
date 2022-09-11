@@ -12,7 +12,7 @@ Last night we stayed within eyesight of the border, which is currently fashioned
 
 Happy Cam on the descent. A mix of overcast skies, mist rolling off the mountain, and evidence of major flooding made the ride absolutely gorgeous.
 
-<img src="{{ "/img/day3descent.png" | prepend: site.baseurl }}">
+<img src="{{ "/img/day3descent.JPG" | prepend: site.baseurl }}">
 
 We had a short shuttle on the interstate due to flooded roads, but the remainder of the days ride was flat and straight. You can tell that we are entering nothingness when they burn shit for power.
 
