@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Day 4 - A century to end CA”
+title:  "Day 4 - A century to end CA"
 date:   2022-09-11 12:34:56 -0400
 categories: bike blog
 ---
