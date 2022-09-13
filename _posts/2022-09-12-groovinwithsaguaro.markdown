@@ -20,7 +20,7 @@ Just as the heat was cranking up, a storm blew in and we got a little rain, this
 
 A couple of us went off-road in the desert for a bit of adventure. I went off on my own for a bit and this felt like the thing to do.
 
-<img src="{{ "/img/day5cactus.JPG" | prepend: site.baseurl }}">
+<img src="{{ "/img/day5cactus.jpg" | prepend: site.baseurl }}">
 
 Maybe I like combining things that “shouldn’t” work well together, or maybe I’m just strange… oh well. No flat tires or thorns in the ass.
 
