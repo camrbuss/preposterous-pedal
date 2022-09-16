@@ -14,4 +14,4 @@ I honestly love the desert, but the sun really does suck the energy out of you. 
 
 Ending with a happy smile:
 
-<img src="{{ "/img/junipersierratrail.JPG" | prepend: site.baseurl }}">
+<img src="{{ "/img/day1junipersierratrail.JPG" | prepend: site.baseurl }}">

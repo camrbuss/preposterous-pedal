@@ -18,8 +18,8 @@ I’m not out here finding myself, I’m out here to be constantly reminded that
 
 Big sad van ride:
 
-<img src="{{ "/img/kayoni8.JPG" | prepend: site.baseurl }}">
+<img src="{{ "/img/day2kayoni8.JPG" | prepend: site.baseurl }}">
 
 Hopeful for a better day in the rain tomorrow. Hopefully we can all crawl along like this little bugger:
 
-<img src="{{ "/img/jacumbabeetle.png" | prepend: site.baseurl }}">
+<img src="{{ "/img/day2jacumbabeetle.png" | prepend: site.baseurl }}">

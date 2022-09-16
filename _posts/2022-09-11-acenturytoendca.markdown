@@ -19,7 +19,7 @@ Anyways, I guess photos are worth a thousand words:
 
 <img src="{{ "/img/day4wave.JPG" | prepend: site.baseurl }}">
 
-<img src="{{ "/img/glamis.JPG" | prepend: site.baseurl }}">
+<img src="{{ "/img/day4glamis.JPG" | prepend: site.baseurl }}">
 
 <img src="{{ "/img/day4smile.JPG" | prepend: site.baseurl }}">
 
