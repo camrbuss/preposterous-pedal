@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Day11 - Drafting to a Draft Root Beer Float"
+title:  "Day 11 - Drafting to a Draft Root Beer Float"
 date:   2022-09-18 12:34:56 -0400
 categories: bike blog
 ---
