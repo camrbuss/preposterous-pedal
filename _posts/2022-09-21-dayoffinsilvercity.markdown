@@ -10,11 +10,11 @@ I wanted to buy some rainbow unicorn cycling socks today, but I chose not to as 
 
 I saw this piece of art today that struck a chord with me.
 
-<img src="{{ "/img/dayy14art0.JPG" | prepend: site.baseurl }}">
+<img src="{{ "/img/dayy14art0.jpg" | prepend: site.baseurl }}">
 
 I also saw this cool creature that got me grooving at a coffee shop.
 
-<img src="{{ "/img/dayy14art1.JPG" | prepend: site.baseurl }}">
+<img src="{{ "/img/dayy14art1.jpg" | prepend: site.baseurl }}">
 
 I finished “Chasing the Squirrel” today and have begun “Alan Turing: The Engima”.
 
