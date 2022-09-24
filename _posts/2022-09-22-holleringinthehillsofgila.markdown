@@ -14,7 +14,7 @@ Todays ride was the last of the mountains. We road out of Silver City through Gi
 
 <img src="{{ "/img/dayy15creek.jpg" | prepend: site.baseurl }}">
 
-<img src="{{ "/img/dayy15wee.jpg" | prepend: site.baseurl }}">
+<img src="{{ "/img/dayy15wee.PNG" | prepend: site.baseurl }}">
 
 The pass was amazing with a view of the landscape below showing no other mountain anywhere close to its height.
 
