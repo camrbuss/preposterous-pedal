@@ -8,7 +8,7 @@ I know I keep saying this, but this adventure is giving the highest of highs. A 
 
 Seth and I started the day together and ended the day together. Great companionship! We met up with Duncan at the first rest stop and snagged a photo. 👨‍👦‍👦
 
-<img src="{{ "/img/dayy15trio.jpg" | prepend: site.baseurl }}">
+<img src="{{ "/img/dayy15trio.JPG" | prepend: site.baseurl }}">
 
 Todays ride was the last of the mountains. We road out of Silver City through Gila National Forest and up and over Emory Pass. 5,000’ of ascent over 75 miles. Fun, but I still could have used more climbing. I will say the Gila wilderness was top notch.🌲⛰ I’m totally in love with New Mexico.
 
