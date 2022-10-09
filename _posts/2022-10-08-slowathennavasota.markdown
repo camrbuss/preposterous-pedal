@@ -16,7 +16,7 @@ On the way out of the wealthy area we saw the start of an additive manufacturing
 
 The landscape has completely forgotten the dessert of West Texas and has regained the trees and grass fields I am used to. This beautiful tree tunnel was a nice break from the heat of the afternoon sun.
 
-<img src="{{ "/img/dayy31tunnel.pg" | prepend: site.baseurl }}">
+<img src="{{ "/img/dayy31tunnel.jpg" | prepend: site.baseurl }}">
 
 The day ended with a nice blizzard from DQ that was way better than the overpriced garbage in the tourist towns. In general the day was filled with great conversation, but I definitely prefer riding at an average of 14 mph.
 
