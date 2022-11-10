@@ -18,5 +18,5 @@ I took this into my own hands and flipped on the PA system and got the three you
 
 Lots of hanging out and good conversation. Doing nothing wouldn’t feel nearly as good if we weren’t constantly riding though.🛋🍩
 
-<img src="{{ "/img/dayychill.JPG" | prepend: site.baseurl }}">
+<img src="{{ "/img/dayy24chill.JPG" | prepend: site.baseurl }}">
 
